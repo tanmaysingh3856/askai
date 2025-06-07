@@ -16,6 +16,7 @@ AskAI transforms the way you interact with AI. Built with cutting-edge technolog
 <div align="center">
 
 ![Demo Screenshot](./assets/demo.png)
+![Demo Screenshot](./assets/demo2.png)
 
 </div>
 
@@ -40,10 +41,10 @@ AskAI transforms the way you interact with AI. Built with cutting-edge technolog
 <div align="center">
 
 ### 🌞 Light Mode
-![Light Mode](./assets/light-mode.png)
+![Light Mode](./assets/white.png)
 
 ### 🌙 Dark Mode
-![Dark Mode](./assets/dark-mode.png)
+![Dark Mode](./assets/demo.png)
 
 </div>
 
@@ -67,7 +68,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- 📧 GitHub: [@Tanmaysingh](https://github.com/Tanmaysingh3856)
+- 📧 GitHub: [@Tanmaysingh3856](https://github.com/Tanmaysingh3856)
 - 🌟 Star this repo to show support!
 
 ---
