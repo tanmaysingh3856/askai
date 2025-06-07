@@ -50,7 +50,7 @@ AskAI transforms the way you interact with AI. Built with cutting-edge technolog
 
 ## 📊 Current Status
 
-**Version:** 1.0.0 (Initial Release)
+**Version:** 2.0.0
 - All core features implemented
 - Regular updates and improvements planned
 - Community feedback welcome
